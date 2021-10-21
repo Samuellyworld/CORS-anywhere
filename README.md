@@ -1,2 +1,2 @@
 
-Added Cors anywhere to Quote generator so as to solve cors issues.
+Added Cors anywhere to Quote generator(https://github.com/Samuellyworld/quote-generator) so as to solve cors issues.
